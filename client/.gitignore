@@ -1,0 +1,113 @@
+# Unity generated files
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+
+# Unity Editor files
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.unityproj
+
+# Unity build output
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Unity crash reports
+sysinfo.txt
+/[Cc]rash[Rr]eports/
+
+# Unity temporary and cached files
+*.cache
+*.cache.meta
+*.bak
+*.backup
+
+# Visual Studio / Rider files
+/.idea/
+*.sln
+*.suo
+*.csproj
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.vs/
+*.vscode/
+
+# macOS files
+.DS_Store
+*.DS_Store
+
+# Windows files
+Thumbs.db
+Desktop.ini
+
+# Dependency directories
+/Assets/Plugins/Android/*
+/Assets/Plugins/iOS/*
+
+# Unity Package Manager
+/[Pp]ackages/[Mm]anifest.json
+/[Pp]ackages/[Pp]ackages-lock.json
+
+# Ignore local configuration overrides
+/[Pp]roject[Ss]ettings/[Pp]roject[Ss]ettings.asset
+/[Pp]roject[Ss]ettings/[Tt]ag[Ll]ayer.asset
+/[Pp]roject[Ss]ettings/[Ee]ditor[Ss]ettings.asset
+
+# Ignore specific Unity asset cache
+/[Aa]ssets/[Aa]sset[Ss]tore[Tt]ools*
+
+# Ignore build logs and profiling data
+/[Pp]rofiler.log
+/[Pp]rofiler.xml
+/[Uu]nity[Ee]ditor[Cc]rash.log
+
+# Ignore any exported packages
+*.exported
+
+# Environment-specific files (optional, depending on your setup)
+.env
+.env.local
+.env.development
+.env.production
+
+# Backend-specific ignores (if Unity and backend are in same repo)
+/target/
+/out/
+/[Mm]aven/
+/[Bb]in/
+
+# Docker-specific ignores
+docker-compose.yml
+Dockerfile
+*.dockerignore
+
+# Unity analytics and crashlytics
+/[Aa]nalytics/
+
+# Ignore large asset files (optional, depending on your needs)
+# *.fbx
+# *.blend
+# *.wav
+# *.mp4
+
+# Add any custom ignores for your specific assets or tools
